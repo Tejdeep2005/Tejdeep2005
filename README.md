@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src=""  />
+
 </div>
 
 ###
@@ -41,7 +41,7 @@
 
 ###
 
-<h2 align="left">I'm Tejdeep from Hyderabad<br><br>- 🔭 I’m a student at Institute of Aeronautical Engineering<br>- 📚 I'm currently learning CyberSecurity<br>- ⚡ In my free time I sleep</h2>
+<h2 align="left">I'm Tejdeep from Hyderabad<br><br>- 🔭 I’m a student at Institute of Aeronautical Engineering<br>- 📚 I'm currently learning Cloud & CyberSecurity<br>- ⚡ In my free time I sleep</h2>
 
 ###
 
